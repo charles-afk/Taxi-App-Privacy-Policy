@@ -1,0 +1,15 @@
+.title {
+    text-decoration: underline;
+}
+
+body {
+    background-color: aqua;
+}
+
+.text-block{
+    margin: auto;
+}
+
+.text{
+    font-size:large;
+}
